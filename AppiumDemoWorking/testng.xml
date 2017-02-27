@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+        <suite name="Default Suite">
+
+    <!-- Default Suite -->
+
+
+    <test name="AppiumDemoWorking">
+
+
+    <classes>
+    <class name="com.avaya.appiumDemo.testcases.Test001">
+    </class>
+
+        <class name="com.avaya.appiumDemo.testcases.Test002">
+        </class>
+
+
+
+</classes>
+
+</test>
+
+    <!-- AppiumDemoWorking -->
+
+
+</suite>
